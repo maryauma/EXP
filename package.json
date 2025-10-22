@@ -1,10 +1,10 @@
 {
   "name": "exp",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "'array methods'.js",
   "scripts": {
-    "nd": "nodemon index.js",
-    "node": "node index.js", 
+    "nd": "nodemon 'array methods'.js",
+    "node": "node 'array methods'.js",
     "test": "echo \"Error: no test specified\" && exit 1"
 
   },
